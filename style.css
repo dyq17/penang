@@ -18,3 +18,9 @@ h3{
   color: LightCoral;
    text-align:center; 
 } 
+
+img{
+  width:50%;
+  display: block;
+  mangin: 0 auto;
+}
